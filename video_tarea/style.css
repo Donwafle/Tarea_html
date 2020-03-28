@@ -6,6 +6,8 @@
 body{
     padding: 100px;
     border: 10px dashed gray;
+    text-align: center;
+    font-style: normal;
 }
 
 div{
@@ -29,3 +31,4 @@ div{
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
 }
+
